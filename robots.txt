@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markwmillar.github.io/archive-6esjz0/sitemap.xml
